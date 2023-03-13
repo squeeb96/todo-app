@@ -4,3 +4,6 @@ try
 Me
 member2
 Fake life
+hello
+goodbye
+good
